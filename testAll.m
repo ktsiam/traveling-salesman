@@ -1,5 +1,4 @@
 clear;
-%does not follow coding conventions, as it is used only for testing
 tic;
 %size 10
 A = [0   29  20  21  16  31  100 12  4   31  ;
